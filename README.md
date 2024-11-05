@@ -1,5 +1,4 @@
 # Lita_Class_Documentation
-This is where I documented my first project while learning data analysis with The Incubator Hub. 
 
 ## Project Title
 Sales Data Analysis
@@ -41,3 +40,24 @@ EDA involves the exploring of the data to answer some questions about the dta su
 - What is the overall sales trend?
 - Which product are top sellers?
 - What are the product on peak sales?
+
+### Visual Analysis Inference
+Data Summary using pivot table
+![pivot](https://github.com/user-attachments/assets/bd848742-e9c0-48bf-8ed5-3b10aeaccc63)
+![pivot file](https://github.com/user-attachments/assets/4509bdc1-0772-4431-a152-4dc7e9b9742c)
+![pivot 2](https://github.com/user-attachments/assets/6602bb0e-685e-4b18-a488-c8d18fbcc98d)
+
+
+Data Visualizatiom using Excel
+![pivot 5](https://github.com/user-attachments/assets/4b1c2c6f-4bd8-46fa-b38e-9954a50a2f21)
+![pivot 4](https://github.com/user-attachments/assets/e75c256f-f2a9-40ae-9766-4100b9a17951)
+![pivot 3](https://github.com/user-attachments/assets/b26042f2-b474-4d0b-ae24-b466858146e4)
+
+### Results/Findings
+
+### Reccommendation
+
+
+
+
+
